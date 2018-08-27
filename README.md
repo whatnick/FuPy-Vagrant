@@ -1,4 +1,4 @@
-# FuPy Tools
+# FuPy Tools - Based on [Ewen's Blog Posts](https://ewen.mcneill.gen.nz/blog/entry/2018-01-17-fupy-fpga-micropython-on-mimas-v2-and-arty-a7/)
 This repo contains a vagrant box to bring up Verilog tools and Vivado into a
 working development environment that can connect to and program Digilent Arty boards.
 
